@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="target2" size="0.211000 0.328614" />
+    <ImageTarget name="target1" size="0.204000 0.296727" />
+    <ImageTarget name="384b6c22-c86e-4910-9a01-953a2162f1391" size="0.210000 0.323368" />
+    <ImageTarget name="48fab851-c90a-482b-bff4-a74b14b96614" size="0.210000 0.280000" />
+    <ImageTarget name="74e0984a-b93c-450a-85cd-a7f4d9c89960" size="0.290000 0.411587" />
+    <ImageTarget name="288e0148-21ad-4a0d-959d-09c599b6458" size="0.300000 0.400000" />
+    <ImageTarget name="288e0148-21ad-4a0d-959d-09c599b64586" size="0.300000 0.400000" />
+    <ImageTarget name="divergent_book" size="0.135000 0.203774" />
+    <ImageTarget name="divergent" size="0.135000 0.203774" />
+  </Tracking>
+</QCARConfig>
