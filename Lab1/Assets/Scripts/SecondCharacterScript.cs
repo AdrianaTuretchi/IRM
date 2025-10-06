@@ -26,4 +26,15 @@ public class SecondCharacterScript : MonoBehaviour
             }
         }
     }
+    
+    private void OnTriggerEnter(Collider other)
+    {
+        Debug.Log("Enter second cactus");
+        if (other.CompareTag("cactus"))
+        {
+            Debug.Log("other cactus");
+            animator.ResetTrigger("TrDead");
+            animator.SetTrigger("TrDead");
+        }
+    }
 }
