@@ -1,5 +1,7 @@
 Acesta e repo-ul echipei formate din Matcovici Georgiana si Turetchi Adriana.
+
 Lab3: Am creat mana in Blender, i-am adaugat textura si am importat-o in Unity ca mana stanga si dreapta (cu scale -1 pe X) pentru cele 2 controllere.
+
 Lab2:
 Am facut setup-ul OpenXR + XRToolkit + XR Device simulator.
 Obiectele sunt apucate de controller cu grab, la release sunt aruncate si in momentul in care ating targetul se incrementeaza scorul din UI (partea dreapta a ecranului).
