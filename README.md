@@ -1,5 +1,6 @@
 Acesta e repo-ul echipei formate din Matcovici Georgiana si Turetchi Adriana.
 
+
 Lab3: Am creat mana in Blender, i-am adaugat textura si am importat-o in Unity ca mana stanga si dreapta (cu scale -1 pe X) pentru cele 2 controllere.
 
 Lab2:
