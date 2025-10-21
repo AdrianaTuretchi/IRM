@@ -2,6 +2,7 @@ Acesta e repo-ul echipei formate din Matcovici Georgiana si Turetchi Adriana.
 
 
 Lab3: Am creat mana in Blender, i-am adaugat textura si am importat-o in Unity ca mana stanga si dreapta (cu scale -1 pe X) pentru cele 2 controllere.
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b3d699d4-b8e5-4436-b607-a1f636ec590f" />
 
 Lab2:
 Am facut setup-ul OpenXR + XRToolkit + XR Device simulator.
@@ -13,4 +14,3 @@ Am plasat cele doua personaje pe cate un image tracker, am configurat setup-ul i
 Ca si bonus, am adaugat RigidBody si BoxColliders pe cei 2 cactusi, iar cand unul dintre ei detecteaza o coliziune cu celalalt (OnTriggerEnter), face tranzitia la animatia Dead.
 Pentru a putea incarca pe github proiectul, am eliminat din pachetele vuforia.
 Video de prezentare: https://youtu.be/HK_Yzx5Gc9k
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b3d699d4-b8e5-4436-b607-a1f636ec590f" />
