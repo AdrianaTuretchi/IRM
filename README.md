@@ -2,6 +2,7 @@ Acesta e repo-ul echipei formate din Matcovici Georgiana si Turetchi Adriana.
 
 
 Lab3: Am creat mana in Blender, i-am adaugat textura si am importat-o in Unity ca mana stanga si dreapta (cu scale -1 pe X) pentru cele 2 controllere.
+Video prezentare in unity: https://youtu.be/7XkJnL-UxLY
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b3d699d4-b8e5-4436-b607-a1f636ec590f" />
 
 Lab2:
